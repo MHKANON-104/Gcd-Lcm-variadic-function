@@ -1,0 +1,1 @@
+# Gcd-Lcm-variadic-function
